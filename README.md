@@ -6,3 +6,5 @@ If you are interested in decarbonizing logistics, please refer to the following 
 * A framework of measures to mitigate greenhouse gas emissions in freight transport: Systematic literature review from a Manufacturer's perspective. https://doi.org/10.1016/j.jclepro.2022.132883
 * Decarbonizing Industrial Logistics. https://doi.org/10.1109/EMR.2022.3186738
 * The adoption of industrial logistics decarbonization practices: Evidence from Austria. https://doi.org/10.1016/j.trip.2023.100857
+
+Philipp Miklautsch, 2023
